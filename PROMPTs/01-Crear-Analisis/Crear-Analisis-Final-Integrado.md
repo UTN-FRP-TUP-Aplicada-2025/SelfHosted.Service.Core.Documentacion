@@ -2,7 +2,7 @@
 # Tool-Prompt — Prompt Integrador de documentación final
 
 > **Invocación**:
-> - `Lee y ejecuta /DEV/SelfHosted.Service.Core.Documentos/PROMPTs/01-Crear-Analisis/Crear-Analisis-Final.md`
+> - `Lee y ejecuta /DEV/SelfHosted.Service.Core.Documentos/PROMPTs/01-Crear-Analisis/Crear-Analisis-Final-Integrado.md`
 > Overview: Crear un unico documento final
 
 ---
