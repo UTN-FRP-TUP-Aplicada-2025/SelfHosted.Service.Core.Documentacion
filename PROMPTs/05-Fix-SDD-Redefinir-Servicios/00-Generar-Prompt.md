@@ -1,0 +1,7 @@
+
+
+una cosa mas , todo esto lo habras condensado en `/DEV/SelfHosted.Service.Core/SDD/Estado/Redefinicion-Servicio.md`, aquí debe definir claramente los flujos de usuario relativo alta y configuracion de  servicios e items de catalogo, modelos de datos necesarios, y ejemplos concretos con valores, que usaremos en maquetas y demas, el documento debe estar estructurado para poder montarlo bajo un prompt en otra session e introduzca todo lo que observamos sobre la documentaicón que venimos haciendo,- tene en cuenta que voy a tener que reconstruir la maqueta, y los datos de la nueva maqueta saldran de lo que aporte este docuemnto en la  documentación de especificación
+
+---
+
+este es una plantilla tentativa de prompt `/DEV/SelfHosted.Service.Core.Documentos/PROMPTs/05-Fix-SDD-Redefinir-Servicios/Ejecutar-Fix-SDD-Definiciones-Servicios.md` en el creame el prompt que tome este documento `/DEV/SelfHosted.Service.Core/SDD/Estado/Redefinicion-Servicio.md` y planifique un plan de adeucación completo sobre el documento intake, maniefiesto, y demas documentos para que incorpore las definiciones que hemos condensado en ese documento (`/DEV/SelfHosted.Service.Core/SDD/Estado/Redefinicion-Servicio.md`). Es super importante actualizar el documento intake porque hemos introducidos piezas importantes de información en lo que respeta a definiciones del producto y detalles funcionalidades. 
