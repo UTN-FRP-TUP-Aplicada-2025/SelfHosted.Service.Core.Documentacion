@@ -3,7 +3,7 @@
 
 ## Contexto
 
-Leer `/Repos-Hosts/Host.Infra.Documentos/ia-db/README.md` describe un pequeño servidor en el que me permite montar servicios internos para mantenimiento de mi pequña infraestructura y desarrollo de software. De ahi centrate en las caracteristicas del servidor y sus capacidades y en los contenedores actuales montados como ejemplo de uso de los contenedores.
+Leer `/Repos-Hosts/Host.Infra.Documentacion/ia-db/README.md` describe un pequeño servidor en el que me permite montar servicios internos para mantenimiento de mi pequña infraestructura y desarrollo de software. De ahi centrate en las caracteristicas del servidor y sus capacidades y en los contenedores actuales montados como ejemplo de uso de los contenedores.
 
 ## Objetivos 
 

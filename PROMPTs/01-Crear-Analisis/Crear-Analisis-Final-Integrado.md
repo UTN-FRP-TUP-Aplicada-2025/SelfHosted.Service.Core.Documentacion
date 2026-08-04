@@ -52,5 +52,5 @@
 
 ## Rule Set
 
-  - `/IA.Prompting.Templates/PromptFramework/RuleSets/RuleSet-Lean.md`
+  - `/IA/IA.Prompts/PromptFramework/RuleSets/RuleSet-Lean.md`
 

@@ -49,5 +49,5 @@
 
 ## Rule Set
 
-  - Aplicar: `/IA.Prompting.Templates/PromptFramework/RuleSets/RuleSet-Lean.md`
+  - Aplicar: `/IA/IA.Prompts/PromptFramework/RuleSets/RuleSet-Lean.md`
 

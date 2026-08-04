@@ -9,7 +9,7 @@
 
 # Contexto 
 
-  Leer `/IA/IA.SDD/README.md` es un `Framework SDD` que ha subrido cambios.
+  Leer `/IA/IA.SDD/README.md` es un `Framework SDD` que ha sufrido cambios.
 
   `/DEV/SelfHosted.Service.Core` es un `repositorio destino` el cual se especifico una `el diseño de una solución` con una versión anterior de `Framework SDD`. En esa versión `Framework SDD`, no contemplaba con versión fue especificada el `el diseño de una solución`.
 

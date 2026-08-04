@@ -1,6 +1,6 @@
 # Análisis · Railway: modelo de abstracción, UX/UI del canvas y librerías equivalentes para .NET 10 + Blazor
 
-> **Tipo:** análisis funcional y de UX/UI (`SelfHosted.Service.Core.Documentos/Analisis/Analisis-Rayway`).
+> **Tipo:** análisis funcional y de UX/UI (`SelfHosted.Service.Core.Documentacion/Analisis/Analisis-Rayway`).
 > **Fecha:** 2026-07-26 · **Estado:** `draft`.
 > **Origen:** `PROMPTs/01-Crear-Analisis/Crear-Analisis-RailWay.md` · **Rule Set:** `RuleSet-Lean`.
 > **Alcance:** documentar las características funcionales, el modelo de abstracción y la
@@ -64,7 +64,7 @@
 El proyecto `SelfHosted.Service.Core` busca construir un servicio web en **.NET 10 / Blazor
 Interactive Server** para administrar proyectos de infraestructura basados en contenedores Docker,
 tomando como referencia de UX/UI el **canvas de Railway** (antecedente interno:
-`Host.Infra.Documentos/Analisis/Infra-Container/Container-Admin/Analisis-Infra-Container.md`, §6
+`Host.Infra.Documentacion/Analisis/Infra-Container/Container-Admin/Analisis-Infra-Container.md`, §6
 "La idea: clonar el canvas de Railway con una app .NET" [\[31\]](#11-referencias)).
 
 Antes de diseñar ese clon hace falta **entender con precisión qué modela Railway**: qué entidades
@@ -951,7 +951,7 @@ elimina por completo la latencia del gesto.
 28. jsPlumb — *Community Edition* (doble licencia MIT/GPLv2; repositorio sin actualizaciones). https://github.com/jsplumb/community-edition
 29. Rete.js — framework de workflows visuales. https://retejs.org/
 30. .NET Foundation — *Docker.DotNet* (cliente C# de la Docker Engine API). https://github.com/dotnet/Docker.DotNet
-31. Análisis interno previo — `Host.Infra.Documentos/Analisis/Infra-Container/Container-Admin/Analisis-Infra-Container.md` (§6).
+31. Análisis interno previo — `Host.Infra.Documentacion/Analisis/Infra-Container/Container-Admin/Analisis-Infra-Container.md` (§6).
 32. Capturas de pantalla aportadas por el usuario — `PROMPTs/01-Crear-Analisis/Crear-Analisis-RailWay/INPUTs/Captura-01.png` y `Captura-02.png`.
 
 ---
